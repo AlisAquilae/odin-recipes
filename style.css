@@ -1,0 +1,25 @@
+h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    background-color: black;
+    color: white;
+}
+
+img {
+    height: auto;
+    width: 1000px;
+}
+
+h2 {
+    margin-left: 10px;
+}
+
+p {
+    margin-left: 10px;
+    width: 950px;
+}
+
+ul li,
+ol li {
+    width: 950px;
+    margin-bottom: 2px;
+}
